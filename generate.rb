@@ -97,7 +97,7 @@ toc_items = []
 
 book.css("h2").each do |heading|
   # This is a version of the title suitable for use in an anchor tag:
-  href_title = heading.inner_html.gsub(/\W/, "_").downcase
+  href_title = "chapter_#{toc_items.length + 1}-#{heading.inner_html.gsub(/\W/, "_").downcase}"
 
   toc_items << {:title => heading.inner_html, :href_title => href_title}
 
@@ -107,7 +107,7 @@ book.css("h2").each do |heading|
   heading_link[:href] = "##{href_title}"
 
   new_heading = book.document.create_element "h2"
-  new_heading[:id] = "chapter_" + href_title
+  new_heading[:id] = href_title
   new_heading.add_child heading_link
 
   # ...and replace the chapter heading with that linkable version
