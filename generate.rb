@@ -97,7 +97,10 @@ toc_items = []
 
 book.css("h2").each do |heading|
   # This is a version of the title suitable for use in an anchor tag:
-  href_title = "chapter_#{toc_items.length + 1}-#{heading.inner_html.gsub(/\W/, "_").downcase}"
+  href_title = heading.inner_html.gsub(/\W/, "_").downcase
+  if book_data["number_chapters"]
+    href_title = "chapter_#{toc_items.length + 1}-#{href_title}"
+  end
 
   toc_items << {:title => heading.inner_html, :href_title => href_title}
 
