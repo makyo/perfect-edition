@@ -12,3 +12,4 @@ home_url: "https://qoheleth.makyo.ink"
 cover_image: "img/cover.png"
 markdown_source: qoheleth.md
 spot_color: "hsla(240, 50%, 25%, 1.0)"
+number_chapters: true
