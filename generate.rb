@@ -98,9 +98,14 @@ toc_items = []
 book.css("h2").each do |heading|
   # This is a version of the title suitable for use in an anchor tag:
   href_title = heading.inner_html.gsub(/\W/, "_").downcase
-  if book_data["number_chapters"]
-    href_title = "chapter_#{toc_items.length + 1}-#{href_title}"
-  end
+  
+  # If the href has already been seen, add a count to the end
+  if toc_items.collect { |item| item[:href_title] }.include? href_title                                               
+    dups = toc_items.find_all do |item|                                                                               
+      item[:href_title].start_with? href_title 
+    end                                                                                                               
+    href_title = "#{href_title}-#{dups.length}"
+  end 
 
   toc_items << {:title => heading.inner_html, :href_title => href_title}
 
