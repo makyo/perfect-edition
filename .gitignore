@@ -3,7 +3,7 @@ Gemfile.lock
 .bundle
 
 # generated build folder
-build
+#build
 
 # macOS
 .DS_Store
