@@ -350,6 +350,12 @@ version="2005-1" xml:lang="en">
 </navLabel>
 <content src="qoheleth-content.xhtml#rj_brewster___2114"/>
 </navPoint>
+<navPoint id="colophon">
+<navLabel>
+<text>Colophon</text>
+</navLabel>
+<content src="qoheleth-content.xhtml#colophon"/>
+</navPoint>
 
 </navMap>
 </ncx>

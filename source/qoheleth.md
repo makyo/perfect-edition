@@ -634,7 +634,7 @@ Dear watched them go.
 
 "Your partner?" Ioan asked. A moment of chitchat felt necessary. Ey lifted eir mug carefully. It smelled quite good.
 
-The fox nodded, picked up it's own mug, and leaned back into the cushions of the couch, slouching. *"Mmhm. Finally decided to explore relationships again,"* it said. *"They accuse me of treating it like an art project"*
+The fox nodded, picked up it's own mug, and leaned back into the cushions of the couch, slouching. *"Mmhm. <a href="/gallery-exhibition.html" target="_blank">Finally decided to explore relationships again</a>,"* it said. *"They accuse me of treating it like an art project"*
 
 Ioan grinned. "Well, are you a forger or a honer of relationships?"
 
@@ -1271,7 +1271,7 @@ I have found several references to the term *kemmer*, with the primary source be
 
 I was not able to deduce anything concrete out of this term, because I cannot tell where it is directed. While I do not presume to know the Name (nor do I wish to!), one possibility is that it refers to the author of the Ode. Another is that it refers to some aspect of the Ode clade itself. You are perhaps uniquely positioned to answer this, as I don't imagine the entirety of the Ode clade are agender foxes, given both what I know of Michelle Hadje and how you speak of your cocladists. A third possibility is that the term may apply to Qoheleth themself. A fourth is that it relates to the mystery at hand in some way. And, of course, it could be meaningless (hah) in terms of subtext, in this case and does not apply beyond being a neat word.
 
-That said, I'm not a fan of the final interpretation, as upon further digging, I came across the line "the key word is kemmer, that's what yo' ass need" in an equally ancient song ("Air 'em out" by clipping. *[sic]*), which was too tight a coincidence to pass up. The annotated lyrics to that song, in turn, were packed with more references and discursion than this letter, many of which refer to old science fiction books and movies. This verse in particular features heavy references to *The Left Hand of Darkness*, including the phrase 'Ansible' --- which shows up in other books as well --- and, in turn, shows up in some of our technology: the communication system by which uploads are sent from Earth to the sim-system here at the L5 point is called 'Ansible'. This struck me as particularly important. I found this song both in my searches on *kemmer* as well as on the Ansible, having taken to heart your suggestion that the clade likes 'old things'. The Ansible turned up a *third* time in the context of asymetric cyphers, mentioned below.
+That said, I'm not a fan of the final interpretation, as upon further digging, I came across the line "the key word is kemmer, that's what yo' ass need" in an equally ancient song ("Air 'em out" by clipping. *[sic]*), which was too tight a coincidence to pass up. The annotated lyrics to that song, in turn, were packed with more references and discursion than this letter, many of which refer to old science fiction books and movies. This verse in particular features heavy references to *The Left Hand of Darkness*, including the phrase 'Ansible' --- which shows up in other books as well --- and, in turn, shows up in some of our technology: the communication system by which <a href="/apres-un-reve.html" target="_blank">uploads are sent from Earth</a> to the sim-system here at the L5 point is called 'Ansible'. This struck me as particularly important. I found this song both in my searches on *kemmer* as well as on the Ansible, having taken to heart your suggestion that the clade likes 'old things'. The Ansible turned up a *third* time in the context of asymetric cyphers, mentioned below.
 
 Given this additional set of coincidences, I've compiled a list of further references in this song for research down the line.
 
@@ -2461,7 +2461,7 @@ The painting: a landscape, perhaps the prairie just outside. A cloud-dotted sky,
 
 Not just black paint, but a black that seemed to eat light. A black the hurt to look at. It made Ioan uncomfortable.
 
-"I think I see why you approached me," ey said. "You are interested in the story, and want someone who lives and breathes stories."
+"I think I see why you approached me," ey said. "You are interested in the story, and want <a href="/assignment.html" target="_blank">someone who lives and breathes stories</a>."
 
 That grin widened, and was joined by a swish of a tail. *"Precisely that. There is art to be had here. It is stressful and, if my suspicions are correct, it bears a message beyond just...what, a jape? A jab at the clade? There is a point to be made here."*
 
@@ -3892,7 +3892,7 @@ Systime 181+338 1644
 
 **Ioan**: Ever?
 
-**Dear**: [nodding] Ever. Some dispersionistas are families. I mentioned the Jonas clade before; Jonas Prime has set up regular intraclade communication. Some are just clades, defined by ancestry with no further connections.
+**Dear**: [nodding] Ever. Some dispersionistas are families. I mentioned the Jonas clade before; Jonas Prime has set up <a href="/jonas-clade-digest.html" target="_blank">regular intraclade communication</a>. Some are just clades, defined by ancestry with no further connections.
 
 **Ioan**: Are you in touch with any of your cocladists?
 
@@ -5275,3 +5275,13 @@ May this be the end of death. Failing that, may the memory of me die and be food
 Yours always,
 
 AwDae
+
+# End
+
+## Colophon
+
+This book is provided for free to be read online thanks to the support of my [patrons](https://patreon.com/makyo). If you would like to support me in my writing, want to my work early, or even have a say in what I write, please consider supporting me there as well.
+
+This book uses the fonts Gentium Book Basic and Linux Biolinum.
+
+Cover by [Iris Jay](http://irisjay.net).

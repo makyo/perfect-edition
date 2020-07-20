@@ -355,6 +355,10 @@ blockquote p:last-of-type {
     margin-bottom: 0;
 }
 
+h1 {
+  font-family: "Linux Biolinum", sans-serif;
+}
+
 h2 {
   margin: calc( var(--line-height) * 6.0 ) 0 calc( var(--line-height) * 2.0 ) 0;
   padding: 0;
