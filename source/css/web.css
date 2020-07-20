@@ -335,6 +335,26 @@ div.bookmark {
 
 /* GENERAL STYLES */
 
+table {
+    margin: 0.5rem auto;
+    text-align: center;
+    border: 1px solid var(--spot-color);
+    box-shadow: 1px 1px 5px var(--selection-color);
+}
+
+thead {
+    display: none;
+}
+
+blockquote p {
+    text-indent: 0;
+    margin-bottom: 1rem;
+}
+
+blockquote p:last-of-type {
+    margin-bottom: 0;
+}
+
 h2 {
   margin: calc( var(--line-height) * 6.0 ) 0 calc( var(--line-height) * 2.0 ) 0;
   padding: 0;

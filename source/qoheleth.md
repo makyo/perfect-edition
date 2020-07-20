@@ -455,23 +455,26 @@ Besides, eir tea was here.
 
 Ey called up Sasha's deck.
 
-  ----------------------
-   Cicero Lost Nov 2111
-      Priv eyes only
-   See Debarre for ACLs
-  ----------------------
+|                      |
+|----------------------|
+| Cicero Lost Nov 2111 |
+|    Priv eyes only    |
+| See Debarre for ACLs |
+|----------------------|
 
-  --------------------
-   Dr. Carter Ramirez
-   specialist in lost
-       so. London
-  --------------------
+|                    |
+|--------------------|
+| Dr. Carter Ramirez |
+| specialist in lost |
+|     so. London     |
+|--------------------|
 
-  --------------------------------
-          Mr/Mrs. Jackson
-    parents, can't get much more
-   dad in govt, mother stays home
-  --------------------------------
+|                                |
+|--------------------------------|
+|        Mr/Mrs. Jackson         |
+|  parents, can't get much more  |
+| dad in govt, mother stays home |
+|--------------------------------|
 
 And on it went for nearly a dozen cards. Each had its own cover embossed with a few lines of type, each containing upwards of a terabyte of information culled from various sources, doubtless of varied quality.
 
@@ -515,11 +518,12 @@ Cicero, however, seemed to waver between socialism and anarchy, depending on fac
 
 Ey made sure syncing was turned on across all copies of the deck before snipping those rows out of the activity table into a card of their own:
 
-  -------------------------
-          DDR votes
-   todo: process by record
-   1 month, 835 votes (!)
-  -------------------------
+|                         |
+|-------------------------|
+|        DDR votes        |
+| todo: process by record |
+| 1 month, 835 votes (!)  |
+|-------------------------|
 
 The icon in the upper left of the screen showing the deck twirled gracefully to show the sync.
 
@@ -561,7 +565,7 @@ It was her phone, as always, that brought her back to reality. It's mere presenc
 
 > Ramirez
 >
-> New case\, this time with scans from before the incident. Another furry, you don't think that's got to do with it, do you :p
+> New case, this time with scans from before the incident. Another furry, you don't think that's got to do with it, do you :p
 >
 > S
 
@@ -879,23 +883,26 @@ From there, she began creating sub-groupings. For cases. For leads. On and on. F
 
 Two were positioned at the top of the list:
 
-  ------------------
-    Patient aca973d7
-    M --- 2086-01-28
-   Lost: 2112-11-08
-  ------------------
+|                  |
+|------------------|
+|  Patient aca973d7|
+|  M --- 2086-01-28|
+| Lost: 2112-11-08 |
+|------------------|
 
-  ------------------
-    Patient 0224ebe8
-    X --- 2084-05-09
-   Lost: 2112-12-07
-  ------------------
+|                  |
+|------------------|
+|  Patient 0224ebe8|
+|  X --- 2084-05-09|
+| Lost: 2112-12-07 |
+|------------------|
 
 Carter connected these two cards with fine thread. Hanging pendant from that, she switched to virtual keyboard and created a metadata label, more tag than card:
 
-  ------------------
-  Possible acquaintances
-  ------------------
+|                  |
+|------------------|
+|Possible acquaintances|
+|------------------|
 
 The others, those shadowy figures, caught on to what she was doing, and got down to work, dragging symlinks of decks and expanding this new group of social connections.
 
@@ -3600,7 +3607,7 @@ Could one dream within a dream? Do so with such a detail that ey would not notic
 
 A supplication. A mantra against hopelessness.
 
-Ey turned the knob and stepped out into the shortgrass prairie of the open space. The packed dirt of the trail welcomed eir paws. The scent of dust and rattle-dry stalks of grass washed over em. Warm, yellow lighted hemmed em in through the fog of war.
+Ey turned the knob and stepped out into the shortgrass prairie of the open space. The packed dirt of the trail welcomed eir paws. The scent of dust and rattle-dry stalks of grass washed over em. Warm, yellow light hemmed em in through the fog of war.
 
 "Wait," ey said once more. Kept eir hands at eir sides. Loose. Relaxed. No menu to reach for, no gesture required.
 
@@ -5148,117 +5155,115 @@ If I see you again, I will greet you with open arms. If I do not, know that I lo
 
 I have little else to offer but the imperfect words that plagued me while I was lost.
 
-'''
-I am at a loss for images in this end of days:  
-I have sight but cannot see.  
-I build castles out of words;  
-I cannot stop myself from speaking.  
-I still have will and goals to attain,  
-I still have wants and needs.  
-And if I dream, is that not so?  
-If I dream, am I no longer myself?  
-If I dream, am I still buried beneath words?  
-And I still dream even while awake.
-
-Life breeds life, but death must now be chosen  
-for memory ends at the teeth of death.  
-The living know that they will die,  
-but the dead know nothing.  
-Hold my name beneath your tongue and know:  
-when you die, thus dies the name.  
-To deny the end is to deny all beginnings,  
-and to deny beginnings is to become immortal,  
-and to become immortal is to repeat the past,  
-which cannot itself, in the end, be denied.
-
-Oh, but to whom do I speak these words?  
-To whom do I plead my case?  
-From whence do I call out?  
-What right have I?  
-No ranks of angels will answer to dreamers,  
-No unknowable spaces echo my words.  
-Before whom do I kneel, contrite?  
-Behind whom do I await my judgment?  
-Beside whom do I face death?  
-And why wait I for an answer?
-
-Among those who create are those who forge:  
-Moving ceaselessly from creation to creation.  
-And those who remain are those who hone,  
-Perfecting singular arts to a cruel point.  
-To forge is to end, and to own beginnings.  
-To hone is to trade ends for perpetual perfection.  
-In this end of days, I must begin anew.  
-In this end of days, I seek an end.  
-In this end of days, I reach for new beginnings  
-that I may find the middle path.
-
-Time is a finger pointing at itself  
-that it might give the world orders.  
-The world is an audience before a stage  
-where it watches the slow hours progress.  
-And we are the motes in the stage-lights,  
-Beholden to the heat of the lamps.  
-If I walk backward, time moves forward.  
-If I walk forward, time rushes on.  
-If I stand still, the world moves around me,  
-and the only constant is change.
-
-Memory is a mirror of hammered silver:  
-a weapon against the waking world.  
-Dreams are the plate-glass atop memory:  
-a clarifying agent that reflects the sun.  
-The waking world fogs the view,  
-and time makes prey of remembering.  
-I remember sands beneath my feet.  
-I remember the rattle of dry grass.  
-I remember the names of all things,  
-and forget them only when I wake.
-
-If I am to bathe in dreams,  
-then I must be willing to submerge myself.  
-If I am to submerge myself in memory,  
-then I must be true to myself.  
-If I am to always be true to myself,  
-then I must in all ways be earnest.  
-I must keep no veil between me and my words.  
-I must set no stones between me and my actions.  
-I must show no hesitation when speaking my name,  
-for that is my only possession.
-
-The only time I know my true name is when I dream.  
-The only time I dream is when need an answer.  
-Why ask questions, here at the end of all things?  
-Why ask questions when the answers will not help?  
-To know one's true name is to know god.  
-To know god is to answer unasked questions.  
-Do I know god after the end waking?  
-Do I know god when I do not remember myself?  
-Do I know god when I dream?  
-May then my name die with me.
-
-That which lives is forever praiseworthy,  
-for they, knowing not, provide life in death.  
-Dear the wheat and rye under the stars:  
-serene; sustained and sustaining.  
-Dear, also, the tree that was felled  
-which offers heat and warmth in fire.  
-What praise we give we give by consuming,  
-what gifts we give we give in death,  
-what lives we lead we lead in memory,  
-and the end of memory lies beneath the roots.
-
-May one day death itself not die?  
-Should we rejoice in the end of endings?  
-What is the correct thing to hope for?  
-I do not know, I do not know.  
-To pray for the end of endings  
-is to pray for the end of memory.  
-Should we forget the lives we lead?  
-Should we forget the names of the dead?  
-Should we forget the wheat, the rye, the tree?  
-Perhaps this, too, is meaningless.
-'''
+> I am at a loss for images in this end of days:    
+> I have sight but cannot see.    
+> I build castles out of words;    
+> I cannot stop myself from speaking.    
+> I still have will and goals to attain,    
+> I still have wants and needs.    
+> And if I dream, is that not so?    
+> If I dream, am I no longer myself?    
+> If I dream, am I still buried beneath words?    
+> And I still dream even while awake.  
+>
+> Life breeds life, but death must now be chosen    
+> for memory ends at the teeth of death.    
+> The living know that they will die,    
+> but the dead know nothing.    
+> Hold my name beneath your tongue and know:    
+> when you die, thus dies the name.    
+> To deny the end is to deny all beginnings,    
+> and to deny beginnings is to become immortal,    
+> and to become immortal is to repeat the past,    
+> which cannot itself, in the end, be denied.  
+>
+> Oh, but to whom do I speak these words?    
+> To whom do I plead my case?    
+> From whence do I call out?    
+> What right have I?    
+> No ranks of angels will answer to dreamers,    
+> No unknowable spaces echo my words.    
+> Before whom do I kneel, contrite?    
+> Behind whom do I await my judgment?    
+> Beside whom do I face death?    
+> And why wait I for an answer?  
+>
+> Among those who create are those who forge:    
+> Moving ceaselessly from creation to creation.    
+> And those who remain are those who hone,    
+> Perfecting singular arts to a cruel point.    
+> To forge is to end, and to own beginnings.    
+> To hone is to trade ends for perpetual perfection.    
+> In this end of days, I must begin anew.    
+> In this end of days, I seek an end.    
+> In this end of days, I reach for new beginnings    
+> that I may find the middle path.  
+>
+> Time is a finger pointing at itself    
+> that it might give the world orders.    
+> The world is an audience before a stage    
+> where it watches the slow hours progress.    
+> And we are the motes in the stage-lights,    
+> Beholden to the heat of the lamps.    
+> If I walk backward, time moves forward.    
+> If I walk forward, time rushes on.    
+> If I stand still, the world moves around me,    
+> and the only constant is change.  
+>
+> Memory is a mirror of hammered silver:    
+> a weapon against the waking world.    
+> Dreams are the plate-glass atop memory:    
+> a clarifying agent that reflects the sun.    
+> The waking world fogs the view,    
+> and time makes prey of remembering.    
+> I remember sands beneath my feet.    
+> I remember the rattle of dry grass.    
+> I remember the names of all things,    
+> and forget them only when I wake.  
+>
+> If I am to bathe in dreams,    
+> then I must be willing to submerge myself.    
+> If I am to submerge myself in memory,    
+> then I must be true to myself.    
+> If I am to always be true to myself,    
+> then I must in all ways be earnest.    
+> I must keep no veil between me and my words.    
+> I must set no stones between me and my actions.    
+> I must show no hesitation when speaking my name,    
+> for that is my only possession.  
+>
+> The only time I know my true name is when I dream.    
+> The only time I dream is when need an answer.    
+> Why ask questions, here at the end of all things?    
+> Why ask questions when the answers will not help?    
+> To know one's true name is to know god.    
+> To know god is to answer unasked questions.    
+> Do I know god after the end waking?    
+> Do I know god when I do not remember myself?    
+> Do I know god when I dream?    
+> May then my name die with me.  
+>
+> That which lives is forever praiseworthy,    
+> for they, knowing not, provide life in death.    
+> Dear the wheat and rye under the stars:    
+> serene; sustained and sustaining.    
+> Dear, also, the tree that was felled    
+> which offers heat and warmth in fire.    
+> What praise we give we give by consuming,    
+> what gifts we give we give in death,    
+> what lives we lead we lead in memory,    
+> and the end of memory lies beneath the roots.  
+>
+> May one day death itself not die?    
+> Should we rejoice in the end of endings?    
+> What is the correct thing to hope for?    
+> I do not know, I do not know.    
+> To pray for the end of endings    
+> is to pray for the end of memory.    
+> Should we forget the lives we lead?    
+> Should we forget the names of the dead?    
+> Should we forget the wheat, the rye, the tree?    
+> Perhaps this, too, is meaningless.  
 
 May this be the end of death. Failing that, may the memory of me die and be food for the growth for those who come after.
 
