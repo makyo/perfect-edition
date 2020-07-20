@@ -1,3 +1,8 @@
+> *Whatever is has already been, and what will be has been before; and God will call the past to account.*
+>
+> --- Ecclesiastes 3:15
+
+# Qoheleth
 
 ## RJ Brewster --- 2112
 

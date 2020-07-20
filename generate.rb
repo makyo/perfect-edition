@@ -126,7 +126,7 @@ book.css("h2").each do |heading|
   heading_link[:href] = "##{href_title}"
 
   new_heading = book.document.create_element "h2"
-  new_heading[:id] = href_title
+  new_heading[:id] = "chapter_" + href_title
   new_heading.add_child heading_link
 
   # ...and replace the chapter heading with that linkable version

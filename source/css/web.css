@@ -514,6 +514,7 @@ div.book h1 {
   text-transform: lowercase;
   line-height: var(--column-height);
 
+  font-family: "Linux Biolinum", sans-serif;
   font-size: 2rem;
   font-weight: 500;
   font-variant: small-caps;
