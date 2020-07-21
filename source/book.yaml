@@ -6,9 +6,10 @@ title_html: <div class="title">
             </div>
 description: An exploration of what it means to be post-self
 author: Madison Scott-Clary
-slug: qoheleth
+twitter: "@makyo_writes"
+slug: web
 pub_date: 2020-07-01
-home_url: "https://qoheleth.makyo.ink"
+home_url: "https://qoheleth.makyo.ink/web"
 cover_image: "/web/img/cover.png"
 markdown_source: qoheleth.md
 spot_color: "hsla(240, 50%, 25%, 1.0)"

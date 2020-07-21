@@ -2,7 +2,7 @@
 <ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
 version="2005-1" xml:lang="en">
 <head>
-<meta name="dtb:uid" content="com.robinsloan.qoheleth"/>
+<meta name="dtb:uid" content="com.robinsloan.web"/>
 </head>
 <docTitle>
 <text>Qoheleth</text>
@@ -12,349 +12,349 @@ version="2005-1" xml:lang="en">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112"/>
+<content src="web-content.xhtml#rj_brewster___2112"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_2">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_2"/>
+<content src="web-content.xhtml#rj_brewster___2112_2"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305"/>
+<content src="web-content.xhtml#ioan_b_lan___2305"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_3">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_3"/>
+<content src="web-content.xhtml#rj_brewster___2112_3"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_4">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_4"/>
+<content src="web-content.xhtml#rj_brewster___2112_4"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_2">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_2"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_2"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_2">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_2"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_2"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_5">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_5"/>
+<content src="web-content.xhtml#rj_brewster___2112_5"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_3">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_3"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_3"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_6">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_6"/>
+<content src="web-content.xhtml#rj_brewster___2112_6"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_3">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_3"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_3"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_7">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_7"/>
+<content src="web-content.xhtml#rj_brewster___2112_7"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_4">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_4"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_4"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_4">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_4"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_4"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_8">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_8"/>
+<content src="web-content.xhtml#rj_brewster___2112_8"/>
 </navPoint>
 <navPoint id="qoheleth___2305">
 <navLabel>
 <text>Qoheleth — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#qoheleth___2305"/>
+<content src="web-content.xhtml#qoheleth___2305"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_5">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_5"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_5"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_9">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_9"/>
+<content src="web-content.xhtml#rj_brewster___2112_9"/>
 </navPoint>
 <navPoint id="qoheleth___2305_2">
 <navLabel>
 <text>Qoheleth — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#qoheleth___2305_2"/>
+<content src="web-content.xhtml#qoheleth___2305_2"/>
 </navPoint>
 <navPoint id="archive___hebel_qoheleth_">
 <navLabel>
 <text>Archive: [Hebel Qoheleth]</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#archive___hebel_qoheleth_"/>
+<content src="web-content.xhtml#archive___hebel_qoheleth_"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_6">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_6"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_6"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_10">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_10"/>
+<content src="web-content.xhtml#rj_brewster___2112_10"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_5">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_5"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_5"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_11">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_11"/>
+<content src="web-content.xhtml#rj_brewster___2112_11"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_7">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_7"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_7"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_6">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_6"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_6"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_12">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_12"/>
+<content src="web-content.xhtml#rj_brewster___2112_12"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_7">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_7"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_7"/>
 </navPoint>
 <navPoint id="sasha___2112">
 <navLabel>
 <text>Sasha — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#sasha___2112"/>
+<content src="web-content.xhtml#sasha___2112"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_8">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_8"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_8"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_13">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_13"/>
+<content src="web-content.xhtml#rj_brewster___2112_13"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_8">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_8"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_8"/>
 </navPoint>
 <navPoint id="qoheleth___2305_3">
 <navLabel>
 <text>Qoheleth — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#qoheleth___2305_3"/>
+<content src="web-content.xhtml#qoheleth___2305_3"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_14">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_14"/>
+<content src="web-content.xhtml#rj_brewster___2112_14"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_9">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_9"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_9"/>
 </navPoint>
 <navPoint id="sasha___2112_2">
 <navLabel>
 <text>Sasha — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#sasha___2112_2"/>
+<content src="web-content.xhtml#sasha___2112_2"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_15">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_15"/>
+<content src="web-content.xhtml#rj_brewster___2112_15"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_9">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_9"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_9"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_10">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_10"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_10"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_10">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_10"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_10"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_16">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_16"/>
+<content src="web-content.xhtml#rj_brewster___2112_16"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_11">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_11"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_11"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_11">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_11"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_11"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_17">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_17"/>
+<content src="web-content.xhtml#rj_brewster___2112_17"/>
 </navPoint>
 <navPoint id="dr_carter_ramirez___2112_12">
 <navLabel>
 <text>Dr Carter Ramirez — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#dr_carter_ramirez___2112_12"/>
+<content src="web-content.xhtml#dr_carter_ramirez___2112_12"/>
 </navPoint>
 <navPoint id="qoheleth___2305_4">
 <navLabel>
 <text>Qoheleth — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#qoheleth___2305_4"/>
+<content src="web-content.xhtml#qoheleth___2305_4"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_12">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_12"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_12"/>
 </navPoint>
 <navPoint id="rj_brewster___2112_18">
 <navLabel>
 <text>RJ Brewster — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2112_18"/>
+<content src="web-content.xhtml#rj_brewster___2112_18"/>
 </navPoint>
 <navPoint id="qoheleth___2305_5">
 <navLabel>
 <text>Qoheleth — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#qoheleth___2305_5"/>
+<content src="web-content.xhtml#qoheleth___2305_5"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_13">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_13"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_13"/>
 </navPoint>
 <navPoint id="qoheleth___2305_6">
 <navLabel>
 <text>Qoheleth — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#qoheleth___2305_6"/>
+<content src="web-content.xhtml#qoheleth___2305_6"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_14">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_14"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_14"/>
 </navPoint>
 <navPoint id="sasha___2112_3">
 <navLabel>
 <text>Sasha — 2112</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#sasha___2112_3"/>
+<content src="web-content.xhtml#sasha___2112_3"/>
 </navPoint>
 <navPoint id="ioan_b_lan___2305_15">
 <navLabel>
 <text>Ioan Bălan — 2305</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#ioan_b_lan___2305_15"/>
+<content src="web-content.xhtml#ioan_b_lan___2305_15"/>
 </navPoint>
 <navPoint id="sasha___2113">
 <navLabel>
 <text>Sasha — 2113</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#sasha___2113"/>
+<content src="web-content.xhtml#sasha___2113"/>
 </navPoint>
 <navPoint id="rj_brewster___2114">
 <navLabel>
 <text>RJ Brewster — 2114</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#rj_brewster___2114"/>
+<content src="web-content.xhtml#rj_brewster___2114"/>
 </navPoint>
 <navPoint id="colophon">
 <navLabel>
 <text>Colophon</text>
 </navLabel>
-<content src="qoheleth-content.xhtml#colophon"/>
+<content src="web-content.xhtml#colophon"/>
 </navPoint>
 
 </navMap>
