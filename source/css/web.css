@@ -435,6 +435,7 @@ hr {
 }
 
 p.last-page {
+  text-indent: 0;
   break-before: column;
 }
 
