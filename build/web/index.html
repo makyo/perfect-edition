@@ -18,7 +18,7 @@ Kobayashi Issa
 
 <meta name="generator" content="These human fingers" />
 
-<link href="css/web-book-Hmkjq3P5j2Ht.css" type="text/css" rel="stylesheet" />
+<link href="css/web-book-2YbgaCmNW1zH.css" type="text/css" rel="stylesheet" />
 
 <title>Qoheleth</title>
 <script>
@@ -106,6 +106,8 @@ return Number( getComputedStyle(bookElement)
 }
 
 function getRect(element) {
+// Terrible hack for Firefox, which treats getBoundingClientRect as an
+// inner dimension for some unknown reason.
 let rects = element.getClientRects();
 return rects[rects.length - 1]
 }
@@ -412,7 +414,7 @@ turnToAnchor( window.location.hash )
 <p>Powered by <a href="https://robinsloan.com">Robin Sloan</a>'s <a href="https://github.com/robinsloan/perfect-edition">Perfect Edition</a>.
 </div>
 
-<img class="cover" src="img/cover.png" alt="" />
+<img class="cover" src="/web/img/cover.png" alt="" />
 <div class="title"> <h1>Qoheleth</h1> <h2>Madison Scott-Clary</h2> </div>
 <blockquote>
 <p><em>Whatever is has already been, and what will be has been before; and God will call the past to account.</em></p>

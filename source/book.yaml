@@ -9,7 +9,7 @@ author: Madison Scott-Clary
 slug: qoheleth
 pub_date: 2020-07-01
 home_url: "https://qoheleth.makyo.ink"
-cover_image: "img/cover.png"
+cover_image: "/web/img/cover.png"
 markdown_source: qoheleth.md
 spot_color: "hsla(240, 50%, 25%, 1.0)"
 number_chapters: true
