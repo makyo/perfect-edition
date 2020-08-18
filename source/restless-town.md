@@ -4,15 +4,11 @@ Thank you to [Julian Norwood/Cadmiumtea](https://patreon.com/cadmiumtea) for the
 
 ## Also by Madison Scott-Clary
 
-[*Qoheleth*](https://qoheleth.makyo.ink)
-
-[*ally*](https://ally.id/book)
-
-[*Eigengrau --- Poems 2015--2020*](https://makyo.ink/publications/eigengrau)
-
-[*Rum and Coke --- Three Short Stories from a Furry Convention*](https://makyo.ink/publications/rum-and-coke)
-
-[*Arcana --- A Tarot Anthology*](https://makyo.ink/publications/arcana), ed.
+* [*Qoheleth*](https://qoheleth.makyo.ink)
+* [*ally*](https://ally.id/book)
+* [*Eigengrau --- Poems 2015--2020*](https://makyo.ink/publications/eigengrau)
+* [*Rum and Coke --- Three Short Stories from a Furry Convention*](https://makyo.ink/publications/rum-and-coke)
+* [*Arcana --- A Tarot Anthology*](https://makyo.ink/publications/arcana), ed.
 
 ## Content Warning
 
