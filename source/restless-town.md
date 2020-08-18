@@ -1,3 +1,7 @@
+This free web version of *Restless Town* is made possible with the support of my patrons over on [Patreon](https://patreon.com/makyo). Please do consider picking up a copy of the paperback, e-book, or audiobook! It is available direct from me [here](https://makyo.ink/publications/restless-town), but also consider supporting small businesses such as [FurPlanet](https://furplanet.com/shop/item.aspx?itemid=1084) and [BadDogBooks](https://baddogbooks.com/product/restless-town/).
+
+Thank you to [Julian Norwood/Cadmiumtea](https://patreon.com/cadmiumtea) for the beautiful cover.
+
 ## Also by Madison Scott-Clary
 
 [*Qoheleth*](https://qoheleth.makyo.ink)
@@ -1190,6 +1194,9 @@ I think of all the things I could say---the warmth of her breath, the trail of k
 
 We lay together in silence. A comfortable silence. The first in a long time.
 
+## A small note...
+
+While this free web version is made possible with the support of my patrons, please do consider picking up a copy of the paperback, e-book, or audiobook! It is available direct from me [here](https://makyo.ink/publications/restless-town), but also consider supporting small businesses such as [FurPlanet](https://furplanet.com/shop/item.aspx?itemid=1084) and [BadDogBooks](https://baddogbooks.com/product/restless-town/).
 
 Fisher
 ==========
@@ -2481,6 +2488,10 @@ You're Gone
 -----
 
 *You're Gone* was originally released as a work of interactive fiction, which you can experience [here](http://makyo.io/youre-gone).
+
+## Hold up!
+
+Enjoying what you're reading so far? Consider snagging a copy of the book! You can find out more about where and how to buy different formats of the book [here](https://makyo.ink/publications/restless-town)
 
 
 Overclassification
@@ -4297,6 +4308,9 @@ Love you for always.
 
 D
 
+## 76% of the way through...
+
+Enjoying the book so far? Wonderful! Feel free to check out the [publication page](https://makyo.ink/publications/restless-town) for information on how to pick up a paperback, e-book, or audiobook copy of *Restless Town*.
 
 A Theory of Attachment
 ==========
@@ -5592,14 +5606,16 @@ Aiden smiled and nodded. "The three of us."
 
 "I'd like that."
 
+## Thank you!
+
+You've made it all the way through *Restless Town*, and I really hope that you enjoyed! If you did, please consider leaving a review for the book on [GoodReads](https://www.goodreads.com/book/show/48839037-restless-town), [Amazon](https://www.amazon.com/Restless-Town-Madison-Scott-Clary/dp/1948743094), [LibraryThing](https://www.librarything.com/work/25056630), or any other review site. It really does mean a lot to me!
+
 Acknowledgements
 ==========
 
 As with any written work, there are many to thank who helped along the way. Thanks to Rob Baird for the boundless optimism and flattering words, as well as the inspiration from his Cannon Shoals stories; to Zeta for all her heart; and to JC and Robin for their help on reading and editing. Thanks, also, to Thurston Howl Publications, Sofawolf Press, and Red Ferret Press for working with me on three of these stories. Thank you, of course, to the advance readers for their kind words.
 
 And thanks, of course, to the polycule. Just as each story here explores a different theme meaningful to me, each of you fills a different role in my life and make me all the more complete.
-
- {#section .unnumbered}
 
 *The Fool*
 
@@ -5643,6 +5659,31 @@ And thanks, of course, to the polycule. Just as each story here explores a diffe
 *A Theory of Attachment*
 
 :   --- Copyright © 2017 Madison Scott-Clary
+
+About this book
+===============
+
+*Restless Town* is a self-published labor of love. The creation of the book was funded originally by my patrons over on [Patreon](https://patreon.com/makyo):
+
+* Sandy
+* R. Reed
+* Sariya Melody
+* Lorxus, an actual fox on the internet
+* Junkie Dawg
+* green
+* Zeta Syanthis
+* My mom
+* Arc
+* Kindar
+* Alicia Goranson
+* Merry Cearley
+* Kit Regrave
+* raxraxraxraxrax
+
+While this free web version is made possible with their support, please do consider picking up a copy of the paperback, e-book, or audiobook! It is available direct from me [here](https://makyo.ink/publications/restless-town), but also consider supporting small businesses such as [FurPlanet](https://furplanet.com/shop/item.aspx?itemid=1084) and [BadDogBooks](https://baddogbooks.com/product/restless-town/).
+
+About the Author
+================
 
 Madison Scott-Clary is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for exploring across genres. She has edited and written for \[adjective\]\[species\] since 2011, and edited *Arcana: A Tarot Anthology* for Thurston Howl Publications in 2017. She is the editor-in-chief of Hybrid Ink, LLC, a small publisher focused on thoughtful fiction, exploratory poetry, and creative non-fiction. She lives in the Pacific Northwest with her cat and two dogs, as well as her husband, who is also a dog.
 
