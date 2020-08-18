@@ -212,7 +212,7 @@ Kobayashi Issa
   function turnToAnchor(anchor) {
     let editedAnchor = "chapter_" + anchor.replace( "#", "" );
 
-    let anchoredHeading = Array.from( document.querySelectorAll("h2") )
+    let anchoredHeading = Array.from( document.querySelectorAll("h1") )
                                .find( heading => {
                                   return heading.getAttribute("id") == editedAnchor;
                                 } );

@@ -101,7 +101,7 @@ toc_duplicate_tracker = {}
 # (Personally, I like treating the markdown as the "source of truth" and
 # generating everything else from it.)
 
-book.css("h2").each do |heading|
+book.css("h1").each do |heading|
   # This is a version of the title suitable for use in an anchor tag:
   href_title = heading.inner_html.gsub(/\W/, "_").downcase
 
@@ -130,7 +130,7 @@ book.css("h2").each do |heading|
   heading_link.inner_html = heading.inner_html
   heading_link[:href] = "##{href_title}"
 
-  new_heading = book.document.create_element "h2"
+  new_heading = book.document.create_element "h1"
   new_heading[:id] = "chapter_" + href_title
   new_heading.add_child heading_link
 
@@ -174,7 +174,7 @@ epub_build_path = "build/epub/BOOK"
 # The epub's chapter headings don't need to be clikcable, but
 # they do have to have the correct anchor names:
 
-epub_book.css("h2").each do |heading|
+epub_book.css("h1").each do |heading|
   href_title = heading.inner_html.gsub(/\W/, "_").downcase
   heading[:id] = href_title
 end

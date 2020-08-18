@@ -28,6 +28,34 @@
   src: url("../font/Vollkorn-SemiboldItalic.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: "Gentium Book Basic";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../font/GenBkBasR.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Gentium Book Basic";
+  font-weight: 400;
+  font-style: italic;
+  src: url("../font/GenBkBasI.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Gentium Book Basic";
+  font-weight: 600;
+  font-style: normal;
+  src: url("../font/GenBkBasB.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Gentium Book Basic";
+  font-weight: 600;
+  font-style: italic;
+  src: url("../font/GenBkBasBI.woff") format("woff");
+}
+
 *, *:before, *:after {
   box-sizing: border-box;
   text-rendering: optimizelegibility;
@@ -51,7 +79,7 @@
 :root {
   --base-unit-half: calc( var(--base-unit) / 2.0 );
 
-  --body-text-font-stack: "Vollkorn", serif;
+  --body-text-font-stack: "Gentium Book Basic", serif;
   --heading-text-font-stack: "Vollkorn", serif;
   --font-size: var(--base-unit-half);
   --line-height: 1.4rem;
@@ -352,7 +380,7 @@ h2 {
   font-weight: 500;
   font-style: italic;
   column-break-before: always;
-  break-before: column;
+  break-before: always;
 }
 
 a, a:link, a:visited {
@@ -367,6 +395,15 @@ p {
   margin: 0;
   padding: 0;
   text-indent: var(--base-unit-half);
+}
+
+div.yg p {
+	margin: 0.5rem !important;
+	text-indent: -0.5rem;
+}
+
+blockquote p {
+	text-indent: 0px;
 }
 
 span.nobr {
@@ -510,6 +547,10 @@ div.book h1 {
 
   text-align: center;
   break-before: column;
+}
+
+div.book h1 + p {
+    text-indent: 0px;
 }
 
 /* these are the "shades" that obscure text on the sides of the screen in wider browsers */
